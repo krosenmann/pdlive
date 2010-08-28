@@ -1,5 +1,4 @@
 #sidebar TableOfContents
 
-#summary Table of user manual contents
 * [Overview]
 * [Test]
