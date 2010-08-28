@@ -6,9 +6,8 @@
 
 Add your content here.
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/lmIpvJHkg9fEq4mdV6a3fg?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/THk5DZfEB0I/AAAAAAAAAA4/3kJSxA3R-Wg/s144/MainBoard2.png" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">De <a href="http://picasaweb.google.com/112648856472001266501/PdLive?feat=embedwebsite">pdLive</a></td></tr></table>
-http://picasaweb.google.com/lh/photo/lmIpvJHkg9fEq4mdV6a3fg?feat=directlink
-
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/Dj8zT19-1cum_DQFmjQRMg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THk5DIjakJI/AAAAAAAAAA0/46PBqWamSSE/s800/MainBoard1.png" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">De <a href="http://picasaweb.google.com/112648856472001266501/PdLive?feat=embedwebsite">pdLive</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/lmIpvJHkg9fEq4mdV6a3fg?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/THk5DZfEB0I/AAAAAAAAAA4/3kJSxA3R-Wg/s800/MainBoard2.png" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">De <a href="http://picasaweb.google.com/112648856472001266501/PdLive?feat=embedwebsite">pdLive</a></td></tr></table>
 = Details =
 
 Add your content here.  Format your content with:
