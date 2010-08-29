@@ -1,4 +1,5 @@
 #sidebar TableOfContents
+
    * [TableOfContents]
    * [Overview]
    * [MainBoard]
@@ -9,4 +10,6 @@
       * [FXArea]
       * [FXBrowser]
       * [OutputModule]
+   * [Patchs]
    * [Snapshots]
+   * [Troubleshooting]
