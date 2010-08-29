@@ -1,0 +1,5 @@
+#sidebar TableOfContents
+
+<a href="http://picasaweb.google.com/lh/photo/4XVkymGvYeuBWQHh0E1qkw?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THlTAHbasYI/AAAAAAAAABY/c19yyXSr5Ec/s800/FX-patching%20area.png" /></a>
+
+It's mainly a blank space you can create objects from any abstraction in the /FX directory. Then the patching and routing is up to you ! Its default patching routes *_Click_* through a reverb, GraphEQ, and a panner then to the output. *_Bus2_* goes to a 4-tap delay. *_Bus11_* to a panner enslaved to the *_MainMetro_*.
