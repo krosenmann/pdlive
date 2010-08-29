@@ -1,4 +1,12 @@
 #sidebar TableOfContents
-
+   * [TableOfContents]
    * [Overview]
-   * [Test]
+   * [MainBoard]
+      * [MainMetro]
+      * [VisualTracker]
+      * [Browser]
+      * [Mixer]
+      * [FXArea]
+      * [FXBrowser]
+      * [OutputModule]
+   * [Snapshots]
