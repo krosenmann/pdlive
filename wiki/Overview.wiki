@@ -15,3 +15,12 @@ Each patch that produces a sound ends by an AudioBus object that lets you send t
 Here's a snapshot of a patch with an AudioBus system, you can easily conform any of your patches by just sticking an audioBus at the outlet. (It's is the popup version, only Mac and Linux, the number version for windows is presented as a multi-routing system in the Mix&Fx window of pdlive). Notice that you have the choice to wether activate an AudioBus wether to go directly to dac (it can be usefull when you just want to hear a the output of the patch before using it)
 
 <a href="http://picasaweb.google.com/lh/photo/eZf1BhwMnxK_mfrjvdtPkg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_TZMojZ6BS9g/THk7jvQRaBI/AAAAAAAAABE/C6qFPj26z20/s400/BeatSlicer-AudioB.png" /></a>
+
+
+for more information on how it's done, my favorite sources : (these sites are amazing and will teach you many things about pd, sound synthesis ...)
+http://obiwannabe.co.uk/ 
+http://www.pd-tutorial.com/
+http://puredata.hurleur.com/
+
+
+Have Fun !
