@@ -1,0 +1,5 @@
+#sidebar TableOfContents
+
+<a href="http://picasaweb.google.com/lh/photo/kCSHEV_fyoItbf4gAH962Q?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/THlTTkS7vPI/AAAAAAAAABk/1jDH9DvjOso/s800/output.png" /></a>
+
+It's where you'll find the Dac, it's a master track, with VU, enable/disable DSP, volume control... It helps you to record your set to a specified file/directory, and it also has a limiter (the label 'output_module' and the Vus will turn red if its sollicited).
