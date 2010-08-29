@@ -1,0 +1,5 @@
+#sidebar TableOfContents
+
+- most of those patchs come with an ALD envelope (Attack, Length, Decay) be sure to initialise it to produce sound. 
+
+- the popup object isn't supported under Windows, you'll need to replace the AudioBuses by the one using numbers in /z_usefull_abs/AudioBuses.pd
