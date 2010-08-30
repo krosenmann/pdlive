@@ -1,0 +1,128 @@
+#sidebar TableOfContents
+
+These are patchs that uses data as input and or output (they do not produce audio signals). They are used to sequence actions read midi files, transform your keyboard into a virtual piano or do analysis of data (markov chain),or generate data (generating scales, or chords).
+
+---------------------------
+*Algo_InterpolateChords.pd*
+
+
+----------------------------
+*Algo_klangfarbenmelodie.pd*
+
+-----------------------------
+*Algo_MarkovChains.pd*
+
+-------------------------------
+*Algo_PianoPhase.pd*
+
+--------------------------
+*Algo_ToneRow.pd*
+
+--------------------------	
+*Bonk&Fiddle_Analysis.pd*
+
+-------------------------
+*Chords2Notes.pd*
+
+----------------
+*DSControl.pd*
+
+----------------------
+*Generating_Scales.pd*
+	
+	enables you to generates scales according to predefined messages, first select your metro then bang one message, by default each bang 	will produce a couple note velocity, then the output goes into a ProbaGate to decides wether it passes on the message or not. After that a 	note and vel messages can be sent to any synth patch.
+
+--------------------	
+*Markov_Analysis.pd*
+
+-----------------------
+*MIDI_FX_Apegiator.pd*
+	
+        an arpegiator that receives a midi note and ouputs 3 midi notes delayed and transposed.
+
+-----------------------
+*MIDI_FX_Chorder.pd*
+	
+        a midi note and output 4 midi notes according to a chording interface random arrangements could be used.
+
+-----------------------
+*MIDI_FX_CreateGlissando.pd*
+	
+	create a glissando towards the input midi note 	over a controlable time.
+
+------------------------
+*MIDI_FX_DrawingControlChange.pd*
+
+	enable you to draw on a table the envelope of a control change parameter. This functioned is featured in the main patch.
+
+-------------------------
+*MIDI_FX_ProbaGate.pd*
+		
+	decides wether it will send the input midi note to the output using "probabilities".
+
+
+---------------------------
+*MIDI_Generative_HarmonicTrees.pd* : 
+
+        is a generator of midi notes synched to the MasterMetro, notes are sorted by an harmonic tree and then sent via the send object.
+
+---------------------------
+*MIDI_KeybVsPiano-az-help.pd*
+	
+---------------------------
+*MidiFileSeq-help.pd*
+	
+	this is a midi-file player, it pretty self explanatory, outlet corresponds to each message from left to right, top to bottom the first one is the 	equivalent to all others packed .
+
+
+--------------------
+*Musical_Score.pd*
+
+---------------------	
+*Musical_Structure&Scales.pd*
+
+	enables you to create musical structure and force playing into a chosen scale. You can choose a bar depth, the patch will then change 	scale every bar.
+
+------------------------	
+*OSC_Android_andOSC.pd*
+
+------------------------
+*OSC_Android_Fingerplay.pd*
+
+-----------------------
+*SEQ_MIDI_32StepNote+Vel.pd*
+
+	is two 32 step sequencers synched together and to the MasterMetro, with velocity values. Notes and vel values for each step are sent 	via the send object.
+
+-----------------------
+*SEQ_MIDI_303seq.pd*
+	
+-----------------------	
+*SEQ_MIDI_Generative_Probabilistic.pd*
+
+	uses probability to decide wether a note is played or not in a score.
+
+------------------------
+*SEQ_MIDI_Generative_Random16Step.pd*
+
+	is a 16 step sequencer with velocity, 	possibility to 	load pattern from files, randomise functions and a probability 	function to decide 	wether it will play a note or not.
+
+----------------------
+*SEQ_MIDI_NoteSequencer.pd*
+	
+----------------------
+*SEQ_MIDI_pianoroll.pd*
+
+-----------------------
+*SEQ_MIDI_SynchroSequencers.pd*
+
+	are remote controllers for your midi instruments you'll have to enter midi notes and velocity values for each notes, it's synched to the Master Metronome.
+
+------------------------
+*SEQ_MIDI_TableSequencer16Steps.pd*
+
+
+-------------------
+*SEQ_QTrack.pd*
+	
+	
