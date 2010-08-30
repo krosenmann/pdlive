@@ -32,7 +32,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 	
 	enables you to generates scales according to predefined messages, first select your metro then bang one message, by default each bang 	will produce a couple note velocity, then the output goes into a ProbaGate to decides wether it passes on the message or not. After that a 	note and vel messages can be sent to any synth patch.
 
---------------------	
+--------------------
 *Markov_Analysis.pd*
 
 -----------------------
@@ -78,12 +78,12 @@ These are patchs that uses data as input and or output (they do not produce audi
 --------------------
 *Musical_Score.pd*
 
----------------------	
+---------------------
 *Musical_Structure&Scales.pd*
 
 	enables you to create musical structure and force playing into a chosen scale. You can choose a bar depth, the patch will then change 	scale every bar.
 
-------------------------	
+------------------------
 *OSC_Android_andOSC.pd*
 
 ------------------------
@@ -97,7 +97,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 -----------------------
 *SEQ_MIDI_303seq.pd*
 	
------------------------	
+-----------------------
 *SEQ_MIDI_Generative_Probabilistic.pd*
 
 	uses probability to decide wether a note is played or not in a score.
