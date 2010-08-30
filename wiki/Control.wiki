@@ -29,7 +29,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 
 ----------------------
 *Generating_Scales.pd*
-	
+
 <a href="http://picasaweb.google.com/lh/photo/JEbnwB7iwnd4N5NjMf0a4g?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THvLw_ahBiI/AAAAAAAAACc/IZydMkCxbgA/s800/GeneratingScales.png" /></a>
 
 	enables you to generates scales according to predefined messages, first select your metro then bang one message, by default each bang 	will produce a couple note velocity, then the output goes into a ProbaGate to decides wether it passes on the message or not. After that a 	note and vel messages can be sent to any synth patch.
@@ -39,17 +39,17 @@ These are patchs that uses data as input and or output (they do not produce audi
 
 -----------------------
 *MIDI_FX_Apegiator.pd*
-	
+
         an arpegiator that receives a midi note and ouputs 3 midi notes delayed and transposed.
 
 -----------------------
 *MIDI_FX_Chorder.pd*
-	
+
         a midi note and output 4 midi notes according to a chording interface random arrangements could be used.
 
 -----------------------
 *MIDI_FX_CreateGlissando.pd*
-	
+
 <a href="http://picasaweb.google.com/lh/photo/Jtw2nVXmTT2K-Ov8_j-Rsw?feat=embedwebsite"><img src="http://lh6.ggpht.com/_TZMojZ6BS9g/THvLw1f3CTI/AAAAAAAAACg/QwepeAx_Vrc/s800/Glissando.png" /></a>
 
 	create a glissando towards the input midi note 	over a controlable time.
@@ -80,7 +80,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 	
 ---------------------------
 *MidiFileSeq-help.pd*
-	
+
 <a href="http://picasaweb.google.com/lh/photo/6Y-8SOnnsGbdyA4hkEnSnQ?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/THvLxYH6dfI/AAAAAAAAACo/8kaXC7b1pu4/s800/MidiFile.png" /></a>
 
 	this is a midi-file player, it pretty self explanatory, outlet corresponds to each message from left to right, top to bottom the first one is the 	equivalent to all others packed .
@@ -122,7 +122,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 
 ----------------------
 *SEQ_MIDI_NoteSequencer.pd*
-	
+
 <a href="http://picasaweb.google.com/lh/photo/P7ZEzleEBMTZ343EcTxOEQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THvL6o4un0I/AAAAAAAAACs/284Ll9JYfCQ/s800/NoteSequencer.png" /></a>
 
 
@@ -140,7 +140,7 @@ These are patchs that uses data as input and or output (they do not produce audi
 
 -------------------
 *SEQ_QTrack.pd*
-	
+
 <a href="http://picasaweb.google.com/lh/photo/lcpXVCG5LU3RD0WE69YfcA?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THvL6-q5v6I/AAAAAAAAAC0/gn59nOTGIig/s800/Qtrack.png" /></a>
 
 	
