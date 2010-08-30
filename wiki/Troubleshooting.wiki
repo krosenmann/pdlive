@@ -10,6 +10,7 @@ _3_- the popup object isn't supported under Windows, so the AudioBus to send to 
 
 
 *Problem loading objects*
+
 there is a few dependencies, check your console output to see if you miss something and email me any pb. There is also a few problems with certain objects considering OS (spigot~ and popup on windows, fluid~ on osx).
 
 - Latest *stable* release of Pd-extended is recommended.
