@@ -1,0 +1,31 @@
+#sidebar TableOfContents
+
+Those patches implies a mic, they may as well be used as effects replacing the *_adc~_* object by an *_catch~ BusX_* object.
+
+--------------------
+*ADC_~IN_Record+Play.pd*  : see also (/Samplers/LiveSampler.pd and /Samplers/LiveSampler2.pd)
+
+---------------------	
+*ADC_~IN.pd* : adc volume is controlled by a knob (it's possible to enable midi control by clicking the toggle). It can be usefull for larsen
+	
+---------------------- 
+*ADC_Conditionner.pd*:
+
+---------------------
+*ADC_patched-EI.pd* :
+	
+----------------------------	
+*ADC_Spacebox-instable.pd* :
+	
+----------------------------	
+*ADC_Tracking-adc2midi.pd* :
+	
+---------------------	
+*ADC_TrigSample.pd* :
+
+------------------
+*ADC_voice-am.pd* :
+
+-------------------
+*ADC_voice-fm.pd* :
+ 
