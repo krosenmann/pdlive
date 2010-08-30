@@ -27,7 +27,7 @@ Those patches implies a mic, they may as well be used as effects replacing the *
 *ADC_patched-EI.pd* :
 	
 
--------------------------------------	
+-------------------------------------
 
 *ADC_Spacebox-instable.pd* :
 
@@ -37,7 +37,7 @@ Those patches implies a mic, they may as well be used as effects replacing the *
 *ADC_Tracking-adc2midi.pd* :
 
 	
--------------------------------------	
+-------------------------------------
 
 *ADC_TrigSample.pd* :
 
