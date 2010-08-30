@@ -7,10 +7,14 @@ Those patches implies a mic, they may as well be used as effects replacing the *
 
 *ADC_~IN_Record+Play.pd*  : see also (/Samplers/LiveSampler.pd and /Samplers/LiveSampler2.pd)
 
+<a href="http://picasaweb.google.com/lh/photo/8BAzRepenTQ7SRnx5pNUeQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_TZMojZ6BS9g/THvGsPNeUbI/AAAAAAAAACQ/55CNlwfQbKU/s800/ADC-InRecordPlay.png" /></a>
+
 
 ----------------------------------------------------	
 
 *ADC_~IN.pd* : adc volume is controlled by a knob (it's possible to enable midi control by clicking the toggle). It can be usefull for larsen
+
+<a href="http://picasaweb.google.com/lh/photo/QT2u9yeosDNwAEHLqUwOlg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_TZMojZ6BS9g/THvGsGRMcyI/AAAAAAAAACM/axlWA0yVJPA/s800/ADC-INlarsen.png" /></a>
 
 	
 -------------------------------------
