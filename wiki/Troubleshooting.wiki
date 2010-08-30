@@ -1,7 +1,7 @@
 #sidebar TableOfContents
 ______________
 *No sound ?* 
-___________
+-------------
 
 _1_- check the DSP on the output module, if it's not orange it means that pd will not calculate any audio, so click to toggle dsp.
 
@@ -12,6 +12,7 @@ _3_- the popup object isn't supported under Windows, so the AudioBus to send to 
 ____________________________
 *Problem loading objects ?*
 __________________________
+
 there is a few dependencies, check your console output to see if you miss something and email me any pb. There is also a few problems with certain objects considering OS (spigot~ and popup on windows, fluid~ on osx).
 
 - Latest *stable* release of Pd-extended is recommended.
