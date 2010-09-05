@@ -17,4 +17,6 @@ there is a few dependencies, check your console output to see if you miss someth
 
 - Latest *stable* release of Pd-extended is recommended.
 
-- Percolate library is needed for the Synth/Midi_PercolateInstruments/ folder (sources http://puredata.hurleur.com/sujet-619-port-percolate)
+- Percolate library is needed for the Synth/Midi_PercolateInstruments/ folder (sources http://puredata.hurleur.com/sujet-619-port-percolate). OSX sources are included.
+
+- Soundhack externals located in FX/Soundhack check the sources for your operating system at : http://www.soundhack.com/externs.php . OSX sources are included.
