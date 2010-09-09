@@ -100,6 +100,16 @@ These are patchs that uses data as input and or output (they do not produce audi
 ------------------------
 *OSC_Android_Fingerplay.pd*
 
+------------------------
+*pdL8-Matrix_Sequencer.pd*
+
+<a href="http://picasaweb.google.com/lh/photo/vMexFaigUtTbtlCyQeQWuA?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/TIkwdaGoOEI/AAAAAAAAAD8/nuQxKA4kQLk/s800/pdl8-matrix.png" /></a>
+
+------------------------
+*pdL16-Note_Sequencer.pd*
+
+<a href="http://picasaweb.google.com/lh/photo/jcnKtCjqhBDq85_mkEDW7g?feat=embedwebsite"><img src="http://lh3.ggpht.com/_TZMojZ6BS9g/TIkwdiXrh0I/AAAAAAAAAEA/t2bZMgqmx3A/s800/pdl16-notesequencer.png" /></a>
+
 -----------------------
 *SEQ_MIDI_32StepNote+Vel.pd*
 
