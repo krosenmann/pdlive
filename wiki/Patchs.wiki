@@ -53,5 +53,6 @@ then a flag system is used in the name of patches :
 
 		- *_tech_* (indicates that this patch is good to be studied to learn     more  about sound synthesis techniques).
 
+                - *_+pdL_* is used to indicate patches that I use most. Most of those have nice gui and/or are easy to use and/or are quite powerfull.
 
 The list of patches given hereby is not exhaustive, this is just to give you an idea (with snapshots) of what you get.
