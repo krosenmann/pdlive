@@ -1,0 +1,1 @@
+The ControlPannel is composed of the **MainMetro**, the **VisualTracker** with it's pre-patched output, and a **browser**.
